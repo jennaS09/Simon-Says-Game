@@ -12,11 +12,13 @@ body{
     border-top-left-radius: 100%;
     border-bottom-right-radius: 5%;
     background-color: red;
+    margin-right: 0;
 }
 .green{
     border-bottom-left-radius: 100%;
     border-top-right-radius: 5%;
     background-color: purple;
+    margin-right: 0;
 }
 .blue{
     border-top-right-radius: 100%;
